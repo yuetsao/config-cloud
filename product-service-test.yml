@@ -17,4 +17,4 @@ management:
       exposure:
         include: "*"
 env: test
-branch: master
+branch: test
