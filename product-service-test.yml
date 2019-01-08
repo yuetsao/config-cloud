@@ -15,6 +15,6 @@ management:
   endpoints:
     web:
       exposure:
-        include: "*"
+        include: bus-refresh
 env: test2019
 branch: master
