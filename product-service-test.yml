@@ -16,5 +16,5 @@ management:
     web:
       exposure:
         include: bus-refresh
-env: test20100
+env: test2010
 branch: master
